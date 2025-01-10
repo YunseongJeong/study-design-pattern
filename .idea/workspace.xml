@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84cb68d1-4cd2-4677-9b57-c9a2eac74321" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/SimpleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/factory_method_pattern/IMethodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/factory_method_pattern/ProductAMethodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/factory_method_pattern/ProductBMethodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/products/IProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/products/ProductA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/products/ProductB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/application/BeanA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/application/BeanB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/application/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/framework/ApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/framework/BeanConfigParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/framework/BeansFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/framework/ClassPathXmlApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/framework/beans.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +92,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/framework" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/application" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java/com/designpatterns/java" />
     </key>
@@ -116,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1736400408129</updated>
       <workItem from="1736400409161" duration="131000" />
-      <workItem from="1736404607748" duration="1791000" />
+      <workItem from="1736404607748" duration="6708000" />
     </task>
     <servers />
   </component>
