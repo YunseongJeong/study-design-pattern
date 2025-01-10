@@ -1,0 +1,10 @@
+<!--bean의 설정 파일이다.-->
+<beans>
+    <bean id="beanA" class="com.designpatterns.java.creational.factory_pattern.dependency_injection_container.application.BeanA">
+        <contructor-arg ref="beanB"/>
+    </bean>
+
+    <bean id="beanB" class="com.designpatterns.java.creational.factory_pattern.dependency_injection_container.application.BeanB">
+        <contructor-arg type="int" value="0"/>
+    </bean>
+</beans>
