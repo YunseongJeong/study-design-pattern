@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84cb68d1-4cd2-4677-9b57-c9a2eac74321" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/structural/adapter_pattern/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/structural/adapter_pattern/ITarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/structural/adapter_pattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/structural/adapter_pattern/based_class/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/structural/adapter_pattern/based_object/Adapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +120,7 @@
       <workItem from="1736400409161" duration="131000" />
       <workItem from="1736404607748" duration="11944000" />
       <workItem from="1736561999927" duration="7638000" />
-      <workItem from="1736584952998" duration="1487000" />
+      <workItem from="1736584952998" duration="2617000" />
     </task>
     <servers />
   </component>
