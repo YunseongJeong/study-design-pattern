@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84cb68d1-4cd2-4677-9b57-c9a2eac74321" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/framework/BeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/factory_pattern/dependency_injection_container/framework/bean_config_parser/XmlBeanConfigParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/builder_pattern/BuilderObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpatterns/java/creational/builder_pattern/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +112,8 @@
       <option name="presentableId" value="Default" />
       <updated>1736400408129</updated>
       <workItem from="1736400409161" duration="131000" />
-      <workItem from="1736404607748" duration="9141000" />
+      <workItem from="1736404607748" duration="11944000" />
+      <workItem from="1736561999927" duration="846000" />
     </task>
     <servers />
   </component>
